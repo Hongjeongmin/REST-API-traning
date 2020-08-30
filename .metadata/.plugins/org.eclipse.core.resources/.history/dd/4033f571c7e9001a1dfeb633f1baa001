@@ -1,0 +1,6 @@
+package me.whiteship.demoinfleanrestapi.event;
+
+
+public class EventControllerTests {
+
+}

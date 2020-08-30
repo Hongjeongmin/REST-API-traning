@@ -1,0 +1,12 @@
+package me.whiteship.demoinfleanrestapi.event;
+
+import org.junit.jupiter.api.Test;
+
+class EventTest {
+	
+	@Test
+	public void builder() {
+		Event event = Event.builder().build();
+	}
+
+}
